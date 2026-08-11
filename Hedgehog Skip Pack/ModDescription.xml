@@ -1,0 +1,50 @@
+<Mod>
+	<Name>Hedgehog Skip Pack</Name>
+	<Version>1.0</Version>
+	<Author>CheddarBung</Author>
+	<Category>Gameplay</Category>
+	<InstallationPath>Hedgehog Skip Pack</InstallationPath>
+	<ReleaseDate>2026-08-10</ReleaseDate>
+	<ReleaseDateOriginal>2026-08-10</ReleaseDateOriginal>
+	<PreviewFile>PNG/PNG.png</PreviewFile>
+	<Description>Quality-of-life skip pack for repeat playthroughs of Final Fantasy IX. Enable only the skips you want.
+
+Pandemonium Bridge Skip
+Skips the Pandemonium Light bridge sequence So lights dont trigger random encounters.
+
+Sword Fight Skip
+The Swordfight always gives 100% impressed so you get the 10000 gill and the moonstone form Queen Brahne. 
+
+Hedgehog Skip
+Removes Hedgehog pie detction so you cant be caught stealing the key in Desert Palace.
+
+Sand Skip
+Disables the Cleyra Trunk sand-trap button-mashing sequence.</Description>
+	<SubMod>
+		<Name>Pandemonium Bridge Skip</Name>
+		<InstallationPath>Pandemonium Bridge Skip</InstallationPath>
+		<Description>Skips the Pandemonium Light bridge sequence So lights dont trigger random encounters.
+</Description>
+		<Default/>
+	</SubMod>
+	<SubMod>
+		<Name>Sword Fight Skip</Name>
+		<InstallationPath>Sword Fight Skip</InstallationPath>
+		<Description>The Swordfight always gives 100% impressed so you get the 10000 gill and the moonstone form Queen Brahne. 
+
+</Description>
+		<Default/>
+	</SubMod>
+	<SubMod>
+		<Name>Hedgehog Skip</Name>
+		<InstallationPath>Hedgehog Skip</InstallationPath>
+		<Description>Removes Hedgehog pie detction so you cant be caught stealing the key in Desert Palace.</Description>
+		<Default/>
+	</SubMod>
+	<SubMod>
+		<Name>Sand Pit Skip</Name>
+		<InstallationPath>Sand Skip</InstallationPath>
+		<Description>Disables the Cleyra Trunk sand-trap button-mashing sequence so the traps can be walked across normally.</Description>
+		<Default/>
+	</SubMod>
+</Mod>
